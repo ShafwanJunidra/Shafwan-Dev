@@ -1,0 +1,5 @@
+Rencana Belajar Shafwan Dev
+
+-Javascript Dasar
+-Javascript Oop
+git & Github
