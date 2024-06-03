@@ -2,6 +2,7 @@ Rencana Belajar Shafwan Dev
 
 -Javascript Dasar
 ^ function
+^ oop js
 * Belajar di pzn
 * bikin project
 ^ kalkulator / game suit
