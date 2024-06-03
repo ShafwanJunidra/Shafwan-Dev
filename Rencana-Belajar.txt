@@ -3,5 +3,6 @@ Rencana Belajar Shafwan Dev
 -Javascript Dasar
 * Belajar di pzn
 * bikin project
+-langsung belajar setiap habis magrib
 -Javascript Oop
 git & Github
